@@ -1,46 +1,56 @@
-# Nome do Projeto
+🏥 Sistema de Gestão para Vigilância Sanitária
+<p align="center"> <img src="https://img.shields.io/badge/status-em%20desenvolvimento-yellow?style=for-the-badge"/> <img src="https://img.shields.io/badge/feito%20com-HTML%20%7C%20CSS%20%7C%20JS-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/projeto-acadêmico-green?style=for-the-badge"/> </p>
+📌 Descrição
 
-Sistema de Gestão para Vigilância Sanitária
+Este projeto consiste no desenvolvimento de um protótipo de sistema voltado para a Vigilância Sanitária, com o objetivo de facilitar o controle, monitoramento e registro de:
 
-## Descrição
+Estabelecimentos
+Inspeções
+Irregularidades
 
-Este projeto consiste no desenvolvimento de um protótipo de sistema voltado para a Vigilância Sanitária, com o objetivo de facilitar o controle, monitoramento e registro de estabelecimentos, inspeções e irregularidades.
-O sistema foi desenvolvido como parte de um trabalho acadêmico, visando simular uma solução digital para melhorar a organização e eficiência dos processos sanitários.
+A proposta simula uma solução digital que melhora a organização, eficiência e tomada de decisão dos órgãos responsáveis.
 
-## Objetivo
+🎯 Objetivo
 Centralizar informações de estabelecimentos
 Registrar inspeções sanitárias
 Identificar e acompanhar irregularidades
-Facilitar a tomada de decisão por parte dos órgãos responsáveis
+Auxiliar na tomada de decisões
 🧩 Funcionalidades
 📋 Cadastro de estabelecimentos
 🧑‍⚕️ Registro de inspeções
 ⚠️ Controle de irregularidades
-📊 Visualização de dados (dashboard)
-🔍 Consulta e busca de informações
+📊 Dashboard para visualização de dados
+🔍 Sistema de busca e consulta
 🖼️ Protótipo / Wireframe
 
-O protótipo foi desenvolvido com foco na usabilidade e simplicidade, garantindo fácil navegação para os usuários.
+O protótipo foi desenvolvido com foco em usabilidade e simplicidade, garantindo uma navegação intuitiva para os usuários.
 
+📌 Adicione aqui imagens do seu sistema:
 
-
+![Tela 1](./assets/tela1.png)
+![Tela 2](./assets/tela2.png)
 🛠️ Tecnologias Utilizadas
-HTML / CSS / JavaScript
-(ou React, se tiver usado)
-Git e GitHub
-Figma (para prototipação)
+HTML5
+CSS3
+JavaScript
+Git & GitHub
+Figma (prototipação)
 🚀 Como Executar o Projeto
 # Clone o repositório
 git clone https://github.com/seu-usuario/seu-repo.git
 
-# Entre na pasta
+# Acesse a pasta do projeto
 cd seu-repo
 
-# Abra o arquivo index.html
+# Abra o arquivo no navegador
+index.html
 📚 Contexto Acadêmico
 
-Projeto desenvolvido para apresentação à Vigilância Sanitária como atividade prática da disciplina, com foco em análise de requisitos e prototipação de sistemas.
+Projeto desenvolvido como atividade prática da disciplina, com foco em:
 
+Levantamento de requisitos
+Prototipação de sistemas
+Apresentação de soluções digitais
 👨‍💻 Integrantes
 Seu nome
 Nome dos colegas
@@ -48,4 +58,8 @@ Nome dos colegas
 
 🚧 Em desenvolvimento
 
-Imagens do projeto:
+💡 Possíveis Melhorias Futuras
+Integração com banco de dados
+Sistema de autenticação de usuários
+Relatórios automatizados
+API para integração externa
