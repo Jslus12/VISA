@@ -1,10 +1,8 @@
 <h1 align="center">🔐 Projeto VISA</h1>
 
---- 
+<h2 align="center"> Descrição</h2>
 
-## Descrição
-
-    O projeto VISA, é um projeto na qual estamos a um longo tempo criando, o projeto tem a finalidade de automatizar algumas funções dentro dessa área, com isso, ajudando a eliminar os maiores vilões da vigilância sanitária — a sobrecarga de trabalho. Com isso, criamos nosso primeiro protótipo para teste na qual apresentamos nesse repositório.
+O projeto VISA, é um projeto na qual estamos a um longo tempo criando, o projeto tem a finalidade de automatizar algumas funções dentro dessa área, com isso, ajudando a eliminar os maiores vilões da vigilância sanitária — a sobrecarga de trabalho. Com isso, criamos nosso primeiro protótipo para teste na qual apresentamos nesse repositório.
 > Vale destacar que é apenas um protótipo não funcional de como ficará quando integrarmos Inteligência Artificial, o projeto pode e vai sofrer alterações.
 
 ## Linguagens usadas
@@ -13,6 +11,7 @@ Seguimos o padrão de uma criação, sua estrutura compõe:
 - HTML5
 - CSS3
 - JS
+
 Ferramentas utilizadas:
 - VS Code — desenvolvimento do código
 - GitHub — hospedagem do projeto
