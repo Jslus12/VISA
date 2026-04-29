@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Licenciamento Sanitário Digital</title>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- ROLE SWITCHER -->
+<div id="role-switcher">
+  <div class="logo">
+    <div class="logo-icon">
+      <svg viewBox="0 0 24 24"><path d="M12 2L2 7v10l10 5 10-5V7L12 2zm0 2.18L20 8.5v7L12 19.82 4 15.5v-7L12 4.18z"/></svg>
+    </div>
+    <div>
+      <h1>Licenciamento Sanitário Digital</h1>
+      <p>Sistema integrado com validação por IA</p>
+    </div>
+  </div>
+
+  <!-- STEP 1: escolha de perfil -->
+  <div id="role-cards-step">
+    <div style="text-align:center;margin-bottom:20px;color:rgba(255,255,255,0.45);font-size:13px">Selecione seu perfil para continuar</div>
+    <div class="cards">
+      <div class="role-card" id="card-user" onclick="showLogin('user')">
+        <div class="rc-icon">🏢</div>
+        <div class="rc-title">Usuário / Solicitante</div>
+        <div class="rc-sub">Enviar e acompanhar processos</div>
+      </div>
+      <div class="role-card" id="card-analyst" onclick="showLogin('analyst')">
+        <div class="rc-icon">🔎</div>
+        <div class="rc-title">Analista Sanitário</div>
+        <div class="rc-sub">Revisar e aprovar licenças</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- STEP 2: login -->
+  <div id="login-panel">
+    <div class="login-box">
+      <button class="login-back" onclick="backToCards()">← Voltar</button>
+      <div class="login-role-label">
+        <span class="login-role-icon" id="login-icon"></span>
+        <div>
+          <div class="login-role-title" id="login-title"></div>
+          <div class="login-role-sub" id="login-sub"></div>
+        </div>
+      </div>
+      <div class="login-sep"></div>
+      <div class="login-field">
+        <label class="login-label">E-mail</label>
+        <input class="login-input" id="login-email" type="email" placeholder="seu@email.com" onkeydown="if(event.key==='Enter')doLogin()">
+      </div>
+      <div class="login-field">
+        <label class="login-label">Senha</label>
+        <input class="login-input" id="login-senha" type="password" placeholder="••••••••" onkeydown="if(event.key==='Enter')doLogin()">
+      </div>
+      <div class="login-error" id="login-error"></div>
+      <button class="login-btn" onclick="doLogin()">Entrar</button>
+      <div class="login-hint">
+        Use as credenciais de demonstração:<br>
+        <strong id="hint-cred"></strong>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- MAIN APP -->
+<div id="app">
+  <!-- HEADER -->
+  <div class="header">
+    <div class="header-logo">
+      <div class="header-logo-icon">
+        <svg viewBox="0 0 24 24"><path d="M12 2L2 7v10l10 5 10-5V7L12 2zm0 2.18L20 8.5v7L12 19.82 4 15.5v-7L12 4.18z"/></svg>
+      </div>
+      <div class="header-title">
+        Lic. Sanitário Digital
+        <span id="header-sub">Portal de Envio</span>
+      </div>
+    </div>
+    <div class="header-divider"></div>
+    <div class="header-info" id="header-info">Portal do Solicitante</div>
+    <div class="header-user">
+      <div class="header-avatar" id="header-avatar">US</div>
+      <div>
+        <div class="header-username" id="header-username">Usuário</div>
+        <span class="header-role-badge badge-user" id="header-badge">Solicitante</span>
+      </div>
+      <button class="switch-btn" onclick="switchRole()">↩ Trocar perfil</button>
+    </div>
+  </div>
+
+  <div class="app-body">
+    <!-- SIDEBAR -->
+    <div class="sidebar" id="sidebar"></div>
+    <!-- CONTENT -->
+    <div class="content" id="content"></div>
+  </div>
+</div>
+
+<!-- TOAST -->
+<div class="toast" id="toast"></div>
+
+<!-- MODAL -->
+<div class="modal-overlay" id="modal">
+  <div class="modal" id="modal-inner"></div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
