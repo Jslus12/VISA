@@ -17,20 +17,12 @@ Ferramentas utilizadas:
 - GitHub — hospedagem do projeto
 - LinkedIn — divulgação
 
-
-## 🧑‍💻 Processo criativo
-
-O processo criativo foi relativamente simples.  
-A proposta inicial era desenvolver uma tela básica utilizando **cores em gradiente** para compor o visual da interface.
-Durante o desenvolvimento, percebi que poderia adicionar também **uma imagem de fundo**, o que ajudaria a deixar a interface um pouco mais interessante visualmente.
-A partir dessa ideia, desenvolvi uma tela de login simples, mantendo a proposta inicial do projeto, mas adicionando esse pequeno detalhe estético para melhorar a aparência geral da página.
-
-
-##  Resultado do projeto
+##  Imagens do projeto
 
 <p align="center">
-  <img src="acessar.png" width="700">
+  <img src="/Imagens/Telalogin.png" width="700">
 </p>
+> Tela Login
 
 
 <p align="center">
