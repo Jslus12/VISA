@@ -29,13 +29,20 @@ Objetivo
 Centralizar informações de estabelecimentos
 Registrar inspeções sanitárias
 Identificar e acompanhar irregularidades
-Auxiliar na tomada de decisões
-🧩 Funcionalidades
+Auxiliar na tomada de decisões.
+
+> 🧩 Funcionalidades
+
 📋 Cadastro de estabelecimentos
+
 🧑‍⚕️ Registro de inspeções
+
 ⚠️ Controle de irregularidades
+
 📊 Dashboard para visualização de dados
+
 🔍 Sistema de busca e consulta
+
 🖼️ Protótipo / Wireframe
 
 ##  Imagens do projeto
@@ -74,9 +81,13 @@ index.html
 <p align="center">Autores</p>
 
 Ana Giulia Negreli
+
 Felipe Piva
+
 João Lucas
+
 Rafael Piasentin
+
 Rafael Sugai
 
 
