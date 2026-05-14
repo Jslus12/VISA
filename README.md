@@ -90,5 +90,7 @@ Rafael Piasentin
 
 Rafael Sugai
 
+Yasmin Fernanda
+
 
 ###### <p align="center">_Por enquanto isso é tudo._</p>
