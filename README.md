@@ -82,7 +82,7 @@ index.html
 
 Ana Giulia Negreli
 
-Felipe Piva
+[Felipe Piva](https://www.linkedin.com/in/felipe-piva-8646232ab/)
 
 João Lucas
 
