@@ -91,7 +91,7 @@ Rafael Piasentin
 
 Rafael Sugai
 
-Yasmin Fernanda
+[Yasmin Fernanda](https://github.com/Yaswsxz)
 
 
 ###### <p align="center">_Por enquanto isso é tudo._</p>
