@@ -88,7 +88,7 @@ index.html
 
 [Rafael Piasentin](https://github.com/rafapiasentin)
 
-Rafael Sugai
+[Rafael Sugai](https://github.com/kotynn)
 
 [Yasmin Fernanda](https://github.com/Yaswsxz)
 
