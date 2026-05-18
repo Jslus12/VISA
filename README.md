@@ -1,19 +1,17 @@
-<h1 align="center">🔐 Projeto VISA</h1>
+<h1 align="center">🔐 VISA</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/VISA-000000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/-1C1C1C?style=for-the-badge">
-  <img src="https://img.shields.io/badge/-383838?style=for-the-badge">
-  <img src="https://img.shields.io/badge/-555555?style=for-the-badge">
-  <img src="https://img.shields.io/badge/-777777?style=for-the-badge">
-  <img src="https://img.shields.io/badge/-999999?style=for-the-badge">
-  <img src="https://img.shields.io/badge/-BBBBBB?style=for-the-badge">
-  <img src="https://img.shields.io/badge/-DDDDDD?style=for-the-badge">
-  <img src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge">
+Plataforma inteligente para modernização da vigilância sanitária
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-em%20desenvolvimento-000000?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/build-prototype-1f1f1f?style=for-the-badge">
+  <img src="https://img.shields.io/badge/focus-automation-3a3a3a?style=for-the-badge">
+  <img src="https://img.shields.io/badge/area-health%20tech-555555?style=for-the-badge">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -22,60 +20,97 @@
   <img src="https://img.shields.io/badge/Database-003B57?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
 
-## 📌 Sobre o Projeto
+---
 
-O Projeto VISA é uma solução voltada para a modernização da vigilância sanitária, com o objetivo de reduzir a sobrecarga operacional através da centralização e automatização de processos.
+## 🚀 Visão do Produto
 
-Este repositório apresenta um protótipo visual, servindo como base para futuras integrações com Inteligência Artificial.
+O **VISA** é uma plataforma digital projetada para reduzir a sobrecarga operacional na vigilância sanitária, centralizando dados, automatizando processos e auxiliando na tomada de decisões.
 
-## 🎥 Preview do Projeto
+O projeto nasce como um protótipo, mas com arquitetura pensada para escalar com Inteligência Artificial e análise de dados.
+
+---
+
+## 🎥 Demonstração
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="700">
+  <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="800">
 </p>
 
-## 🛠️ Tecnologias Utilizadas
+---
+
+## 🌐 Acesso ao Projeto
+
+🔗 Protótipo completo:
+https://drive.google.com/drive/folders/1oY0z-oD58EICnzu0A2mmWZqQkZw5VtBC?hl=pt-br
+
+💡 *(Deploy online em breve)*
+
+---
+
+## 🧩 Funcionalidades
+
+* Gestão de estabelecimentos
+* Registro estruturado de inspeções
+* Rastreamento de irregularidades
+* Dashboard analítico
+* Sistema de busca inteligente
+
+---
+
+## 🛠️ Stack Tecnológica
 
 <table align="center">
 <tr>
-<td align="center"><b>Linguagens</b></td>
-<td align="center"><b>Ferramentas</b></td>
+<td align="center"><b>Camada</b></td>
+<td align="center"><b>Tecnologias</b></td>
 </tr>
 
 <tr>
-<td align="center">
+<td align="center">Frontend</td>
+<td align="center">HTML5, CSS3, JavaScript</td>
+</tr>
 
-HTML5<br>
-CSS3<br>
-JavaScript<br>
-Java<br>
-Python<br>
-Banco de Dados
+<tr>
+<td align="center">Lógica futura</td>
+<td align="center">Java, Python</td>
+</tr>
 
-</td>
+<tr>
+<td align="center">Dados</td>
+<td align="center">Banco de Dados relacional</td>
+</tr>
 
-<td align="center">
+<tr>
+<td align="center">Design</td>
+<td align="center">Figma</td>
+</tr>
 
-VS Code<br>
-GitHub<br>
-Figma<br>
-LinkedIn
-
-</td>
+<tr>
+<td align="center">DevOps</td>
+<td align="center">GitHub</td>
 </tr>
 </table>
 
-## 📋 Funcionalidades
+---
 
-* Cadastro de estabelecimentos
-* Registro de inspeções
-* Controle de irregularidades
-* Dashboard para visualização de dados
-* Sistema de busca e consulta
+## 🧠 Arquitetura (Visão)
 
-## 🖼️ Protótipo
+```text
+Frontend → API → Banco de Dados
+             ↓
+        IA / OCR / Análise
+```
 
-👉 [Acessar todas as telas do projeto](https://drive.google.com/drive/folders/1oY0z-oD58EICnzu0A2mmWZqQkZw5VtBC?hl=pt-br)
+---
+
+## 📈 Impacto Esperado
+
+* Redução da sobrecarga operacional
+* Maior rastreabilidade de inspeções
+* Tomada de decisão baseada em dados
+* Padronização de processos
+
+---
 
 ## 🚀 Como Executar
 
@@ -84,6 +119,8 @@ git clone https://github.com/seu-usuario/seu-repo.git
 cd seu-repo
 index.html
 ```
+
+---
 
 ## 👥 Equipe
 
@@ -95,14 +132,14 @@ index.html
 <img src="https://github.com/xxxxxvx.png" width="100px;"><br>
 <b>Ana Giulia</b>
 </a><br>
-<a href="https://linkedin.com/in/SEU_LINK">
+<a href="#">
 <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat-square&logo=linkedin">
 </a>
 </td>
 
 <td align="center">
 <a href="https://github.com/SEU_USER_FELIPE">
-<img src="https://github.com/SEU_USER_FELIPE.png" width="100px;"><br>
+<img src="https://ui-avatars.com/api/?name=Felipe+Piva&background=000&color=fff" width="100px;"><br>
 <b>Felipe Piva</b>
 </a><br>
 <a href="https://linkedin.com/in/felipe-piva-8646232ab/">
@@ -115,7 +152,7 @@ index.html
 <img src="https://github.com/Jslus12.png" width="100px;"><br>
 <b>João Lucas</b>
 </a><br>
-<a href="https://linkedin.com/in/SEU_LINK">
+<a href="#">
 <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat-square&logo=linkedin">
 </a>
 </td>
@@ -129,7 +166,7 @@ index.html
 <img src="https://github.com/rafapiasentin.png" width="100px;"><br>
 <b>Rafael Piasentin</b>
 </a><br>
-<a href="https://linkedin.com/in/SEU_LINK">
+<a href="#">
 <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat-square&logo=linkedin">
 </a>
 </td>
@@ -139,7 +176,7 @@ index.html
 <img src="https://github.com/kotynn.png" width="100px;"><br>
 <b>Rafael Sugai</b>
 </a><br>
-<a href="https://linkedin.com/in/SEU_LINK">
+<a href="#">
 <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat-square&logo=linkedin">
 </a>
 </td>
@@ -149,7 +186,7 @@ index.html
 <img src="https://github.com/Yaswsxz.png" width="100px;"><br>
 <b>Yasmin Fernanda</b>
 </a><br>
-<a href="https://linkedin.com/in/SEU_LINK">
+<a href="#">
 <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat-square&logo=linkedin">
 </a>
 </td>
@@ -157,4 +194,8 @@ index.html
 </tr>
 </table>
 
-<p align="center"><i>Projeto em desenvolvimento 🚧</i></p>
+---
+
+<p align="center">
+<b>Construindo o futuro da vigilância sanitária com tecnologia.</b>
+</p>
