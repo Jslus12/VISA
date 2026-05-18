@@ -80,11 +80,12 @@ index.html
 
 <p align="center">Autores</p>
 
-Ana Giulia Negreli
+[Ana Giulia Negreli](https://github.com/xxxxxvx)
 
 [Felipe Piva](https://www.linkedin.com/in/felipe-piva-8646232ab/)
 
-João Lucas
+[João Lucas](https://github.com/Jslus12)
+
 
 Rafael Piasentin
 
