@@ -1,96 +1,126 @@
 <h1 align="center">🔐 Projeto VISA</h1>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/status-em%20andamento-4a4a4a?style=flat-square&logo=github&logoColor=white&labelColor=000000" height="25">
-  <img src="https://img.shields.io/badge/HTML5-555555?style=flat-square&logo=html5&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/CSS3-777777?style=flat-square&logo=css3&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/VS_Code-999999?style=flat-square&logo=visualstudiocode&logoColor=white" height="25">
-</p>
-<h2 align="center"> Descrição</h2>
-
-O projeto VISA, é um projeto na qual estamos a um longo tempo criando, o projeto tem a finalidade de automatizar algumas funções dentro dessa área, com isso, ajudando a eliminar os maiores vilões da vigilância sanitária — a sobrecarga de trabalho. Com isso, criamos nosso primeiro protótipo para teste na qual apresentamos nesse repositório.
-> Vale destacar que é apenas um protótipo não funcional de como ficará quando integrarmos Inteligência Artificial, o projeto pode e vai sofrer alterações.
-
-## Linguagens usadas
-
-Seguimos o padrão de uma criação, sua estrutura compõe:
-- HTML5
-- CSS3
-- JS
-
-Ferramentas utilizadas:
-- VS Code — desenvolvimento do código
-- GitHub — hospedagem do projeto
-- LinkedIn — divulgação
-- Figma (prototipação)
----
-
-<h1 align="center">Funcionalidades</h1>
-Objetivo
-Centralizar informações de estabelecimentos
-Registrar inspeções sanitárias
-Identificar e acompanhar irregularidades
-Auxiliar na tomada de decisões.
-
-> 🧩 Funcionalidades
-
-📋 Cadastro de estabelecimentos
-
-🧑‍⚕️ Registro de inspeções
-
-⚠️ Controle de irregularidades
-
-📊 Dashboard para visualização de dados
-
-🔍 Sistema de busca e consulta
-
-🖼️ Protótipo / Wireframe
-
-##  Imagens do projeto
-
-> Tela Login
-<p align="center">
-  <img src="/Imagens/Telalogin.png" width="700">
+  <img src="https://img.shields.io/badge/status-em%20desenvolvimento-000000?style=flat-square&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Database-003B57?style=flat-square&logo=postgresql&logoColor=white">
 </p>
 
-> Tela User
-<p align="center">
-  <img src="/Imagens/User.png" width="700">
-</p>
+## 📌 Sobre o Projeto
 
-> Tela ADM
-<p align="center">
-  <img src="/Imagens/Adm.png" width="700">
-</p>
+O Projeto VISA é uma solução voltada para a modernização da vigilância sanitária, com o objetivo de reduzir a sobrecarga operacional através da centralização e automatização de processos.
 
+Este repositório apresenta um protótipo visual, servindo como base para futuras integrações com Inteligência Artificial.
 
----
+## 🛠️ Tecnologias Utilizadas
 
-<h1 align="center"> Considerações Finais </h1>
+<table align="center">
+<tr>
+<td align="center"><b>Linguagens</b></td>
+<td align="center"><b>Ferramentas</b></td>
+</tr>
 
-## Como Executar o Projeto
+<tr>
+<td align="center">
 
-> Clone o repositório
+HTML5<br>
+CSS3<br>
+JavaScript<br>
+Java<br>
+Python<br>
+Banco de Dados
+
+</td>
+
+<td align="center">
+
+VS Code<br>
+GitHub<br>
+Figma<br>
+LinkedIn
+
+</td>
+</tr>
+</table>
+
+## 📋 Funcionalidades
+
+* Cadastro de estabelecimentos
+* Registro de inspeções
+* Controle de irregularidades
+* Dashboard para visualização de dados
+* Sistema de busca e consulta
+
+## 🖼️ Protótipo
+
+Acesse todas as telas do projeto:
+
+👉 https://drive.google.com/drive/folders/1oY0z-oD58EICnzu0A2mmWZqQkZw5VtBC?hl=pt-br
+
+## 🚀 Como Executar
+
+```bash
 git clone https://github.com/seu-usuario/seu-repo.git
-
-> Acesse a pasta do projeto
 cd seu-repo
-
-> Abra o arquivo no navegador
 index.html
+```
 
-<p align="center">Autores</p>
+## 👥 Equipe
 
-[Ana Giulia Negreli](https://github.com/xxxxxvx)
+<table align="center">
+<tr>
 
-[Felipe Piva](https://www.linkedin.com/in/felipe-piva-8646232ab/)
+<td align="center">
+<a href="https://github.com/xxxxxvx">
+<img src="https://github.com/xxxxxvx.png" width="100px;" style="border-radius:50%"><br>
+<b>Ana Giulia</b>
+</a>
+</td>
 
-[João Lucas](https://github.com/Jslus12)
+<td align="center">
+<a href="https://github.com/SEU_USER_FELIPE">
+<img src="https://github.com/SEU_USER_FELIPE.png" width="100px;" style="border-radius:50%"><br>
+<b>Felipe Piva</b>
+</a>
+</td>
 
-[Rafael Piasentin](https://github.com/rafapiasentin)
+<td align="center">
+<a href="https://github.com/Jslus12">
+<img src="https://github.com/Jslus12.png" width="100px;" style="border-radius:50%"><br>
+<b>João Lucas</b>
+</a>
+</td>
 
-[Rafael Sugai](https://github.com/kotynn)
+</tr>
 
-[Yasmin Fernanda](https://github.com/Yaswsxz)
+<tr>
 
+<td align="center">
+<a href="https://github.com/rafapiasentin">
+<img src="https://github.com/rafapiasentin.png" width="100px;" style="border-radius:50%"><br>
+<b>Rafael Piasentin</b>
+</a>
+</td>
 
-###### <p align="center">_Por enquanto isso é tudo._</p>
+<td align="center">
+<a href="https://github.com/kotynn">
+<img src="https://github.com/kotynn.png" width="100px;" style="border-radius:50%"><br>
+<b>Rafael Sugai</b>
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/Yaswsxz">
+<img src="https://github.com/Yaswsxz.png" width="100px;" style="border-radius:50%"><br>
+<b>Yasmin Fernanda</b>
+</a>
+</td>
+
+</tr>
+</table>
+
+<p align="center"><i>Projeto em desenvolvimento</i></p>
