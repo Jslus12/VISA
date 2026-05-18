@@ -86,8 +86,7 @@ index.html
 
 [João Lucas](https://github.com/Jslus12)
 
-
-Rafael Piasentin
+[Rafael Piasentin](https://github.com/rafapiasentin)
 
 Rafael Sugai
 
