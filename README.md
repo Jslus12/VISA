@@ -120,8 +120,8 @@ open index.html
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/SEU_USER_FELIPE">
-        <img src="https://ui-avatars.com/api/?name=FP&size=72&background=0d0d0d&color=4ADE80&bold=true&rounded=true"/><br/>
+      <a href="https://github.com/Felipepiv">
+        <img src="Felipe.jpeg"/><br/>
         <sub><b>Felipe Piva</b></sub>
       </a><br/>
       <a href="https://linkedin.com/in/felipe-piva-8646232ab/">
@@ -132,6 +132,8 @@ open index.html
       <a href="https://github.com/Jslus12">
         <img src="https://github.com/Jslus12.png" width="72" style="border-radius:50%"/><br/>
         <sub><b>João Lucas</b></sub>
+              <a href="https://www.linkedin.com/in/jo%C3%A3o-lucas-d-ba44923b0/">
+        <img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=flat-square&logo=linkedin&logoColor=60a5fa"/>
       </a>
     </td>
   </tr>
@@ -140,12 +142,16 @@ open index.html
       <a href="https://github.com/rafapiasentin">
         <img src="https://github.com/rafapiasentin.png" width="72" style="border-radius:50%"/><br/>
         <sub><b>Rafael Piasentin</b></sub>
+        <a href="https://www.linkedin.com/in/rafael-piasentin-b22149256/">
+        <img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=flat-square&logo=linkedin&logoColor=60a5fa"/>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/kotynn">
         <img src="https://github.com/kotynn.png" width="72" style="border-radius:50%"/><br/>
         <sub><b>Rafael Sugai</b></sub>
+        <a href="https://www.linkedin.com/in/rafael-koti-b046b8352/">
+        <img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=flat-square&logo=linkedin&logoColor=60a5fa"/>
       </a>
     </td>
     <td align="center">
