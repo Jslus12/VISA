@@ -111,10 +111,51 @@ open index.html
 
 <div align="center">
 
-| | | |
-|:---:|:---:|:---:|
-| [![Ana Giulia](https://github.com/xxxxxvx.png?size=80)](https://github.com/xxxxxvx)<br/>**Ana Giulia** | [![Felipe Piva](https://ui-avatars.com/api/?name=Felipe+Piva&size=80&background=0d0d0d&color=4ADE80&bold=true)](https://github.com/SEU_USER_FELIPE)<br/>**Felipe Piva** [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d0d0d?style=flat-square&logo=linkedin&logoColor=60a5fa)](https://linkedin.com/in/felipe-piva-8646232ab/) | [![João Lucas](https://github.com/Jslus12.png?size=80)](https://github.com/Jslus12)<br/>**João Lucas** |
-| [![Rafael Piasentin](https://github.com/rafapiasentin.png?size=80)](https://github.com/rafapiasentin)<br/>**Rafael Piasentin** | [![Rafael Sugai](https://github.com/kotynn.png?size=80)](https://github.com/kotynn)<br/>**Rafael Sugai** | [![Yasmin Fernanda](https://github.com/Yaswsxz.png?size=80)](https://github.com/Yaswsxz)<br/>**Yasmin Fernanda** |
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/xxxxxvx">
+        <img src="https://github.com/xxxxxvx.png" width="72" style="border-radius:50%"/><br/>
+        <sub><b>Ana Giulia</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/SEU_USER_FELIPE">
+        <img src="https://ui-avatars.com/api/?name=FP&size=72&background=0d0d0d&color=4ADE80&bold=true&rounded=true"/><br/>
+        <sub><b>Felipe Piva</b></sub>
+      </a><br/>
+      <a href="https://linkedin.com/in/felipe-piva-8646232ab/">
+        <img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=flat-square&logo=linkedin&logoColor=60a5fa"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Jslus12">
+        <img src="https://github.com/Jslus12.png" width="72" style="border-radius:50%"/><br/>
+        <sub><b>João Lucas</b></sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/rafapiasentin">
+        <img src="https://github.com/rafapiasentin.png" width="72" style="border-radius:50%"/><br/>
+        <sub><b>Rafael Piasentin</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kotynn">
+        <img src="https://github.com/kotynn.png" width="72" style="border-radius:50%"/><br/>
+        <sub><b>Rafael Sugai</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Yaswsxz">
+        <img src="https://github.com/Yaswsxz.png" width="72" style="border-radius:50%"/><br/>
+        <sub><b>Yasmin Fernanda</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
